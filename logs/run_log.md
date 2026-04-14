@@ -11,4 +11,5 @@
 - [x] Đã chạy với `6 9`
 
 ## Điều em học được từ bài lab
-Qua bài lab, em hiểu cách tính entropy để đo mức độ thông tin của dữ liệu và nhận biết sự dư thừa thông qua redundancy. Em cũng nắm được cách tìm nghịch đảo modulo bằng thuật toán Euclid mở rộng và điều kiện để nghịch đảo tồn tại. Khó khăn ban đầu là hiểu công thức và xử lý số âm trong kết quả, nhưng nhờ chạy nhiều test case em đã hiểu rõ hơn. Bài lab giúp em thấy rõ mối liên hệ giữa lý thuyết và cài đặt thực tế.
+Viết 3-5 dòng ngắn gọn ở đây.
+Em hiểu cách tính entropy và redundancy để đánh giá dữ liệu, đồng thời biết cách tìm modulo inverse bằng Euclid mở rộng. Khó khăn là hiểu công thức và xử lý số âm, nhưng sau khi test nhiều trường hợp em đã nắm chắc hơn
